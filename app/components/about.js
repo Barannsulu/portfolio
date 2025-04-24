@@ -10,7 +10,7 @@ export default function About() {
         <span className='text-blue-400'>
           <Typewriter
             words={[
-              "const name = “Baran”;",
+              "const name = 'Baran';",
               "Web Developer.",
               "Nice to meet you 👋",
             ]}
