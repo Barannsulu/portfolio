@@ -22,6 +22,26 @@ const experiences = [
     ],
   },
 
+   {
+    company: "Insider",
+    role: "Software Developer",
+    bullets: [
+      "Optimized dynamic form rendering to improve user experience (UX) for agents, reducing form completion times",
+      "Collaborated with backend teams to design and integrate RESTful APIs, and strengthened error handling workflows for improved system reliability.",
+      "Collaborated with senior developers to design and implement new features.",
+    ],
+  },
+
+   {
+    company: "TechWave Solutions",
+    role: "Full Stack Developer",
+    bullets: [
+      "Worked with REST APIs, JSON, and AJAX for data integration.",
+      "Used Git for version control and collaborated on projects in an agile environment.",
+      "Debugged and optimized code to improve performance and efficiency.",
+    ],
+  },
+
   // Daha fazla deneyim eklersin...
 ];
 
